@@ -4,6 +4,10 @@ My name is Jordi and I'm originally from Spain (Girona) and I have been living i
 
 I hold a Master's degree in Computer Engineering from the Open University of Catalonia, a Bachelor's degree in Computer Engineering from the Open University of Catalonia, and a Bachelor's degree in Industrial Electronics Engineering from the University of Girona.
 
+- 🔭 I’m currently working on Trading and Compliance systems
+- 🌱 I’m currently implementing Deep Learning models
+- 📫 How to reach me: [@thunderjordi](https://twitter.com/thunderjordi)
+
 <!--
 **JordiCorbilla/JordiCorbilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
