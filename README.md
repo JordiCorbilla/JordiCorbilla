@@ -6,7 +6,7 @@ I hold a Master's degree in Computer Engineering from the Open University of Cat
 
 - 🔭 I’m currently working on Trading and Compliance technologies using .NET
 - 🌱 I’m currently implementing Deep Learning models using Python
-- 📫 How to reach me: [Tweeter: @thunderjordi](https://twitter.com/thunderjordi)
+- 📫 How to reach me: [Twitter at @thunderjordi](https://twitter.com/thunderjordi) or [LinkedIn](https://www.linkedin.com/in/jordicollcorbilla/)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jordicorbilla&show_icons=true)
 
