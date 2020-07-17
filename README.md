@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jordi and I'm originally from Spain (Girona) and I have been living in the UK for the past 10 years. I have been coding for the past 18+ years and I'm currently the Director of Application Development at VR Capital, a global Hedge Fund focused on distressed securities and event-driven/special situations investments with a strong historical orientation towards emerging markets. I lead a number of developers across multiple regions to deliver Front Office trading systems with an exclusive focus on end-to-end full-stack software development using cutting edge technologies.  
+My name is Jordi and I'm originally from Spain (Girona) and I have been living in the UK for the past 10 years. I have been coding for the past 18+ years and I'm currently the Director of Application Development at [VR Capital](http://www.uk.vr-capital.com/), a global Hedge Fund focused on distressed securities and event-driven/special situations investments with a strong historical orientation towards emerging markets. I lead a number of developers across multiple regions to deliver Front Office trading systems with an exclusive focus on end-to-end full-stack software development using cutting edge technologies.  
 
 I hold a Master's degree in Computer Engineering from the Open University of Catalonia, a Bachelor's degree in Computer Engineering from the Open University of Catalonia, and a Bachelor's degree in Industrial Electronics Engineering from the University of Girona.
 
