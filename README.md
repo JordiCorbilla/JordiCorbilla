@@ -26,6 +26,21 @@ How to reach me:
 ![](https://github-readme-stats.vercel.app/api?username=jordicorbilla&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jordicorbilla.jordicorbilla)
+
+| Areas of Expertise                                                                                                                                                                                     |                                         |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| Data Storage: SQLServer, MySql, Oracle                                                                                                                                                                 | Mentoring/Coaching                      |
+| Solutions Architecture, technical design                                                                                                                                                               | Troubleshooting / Problem solver        |
+| Documentation, Reporting and Process improvement                                                                                                                                                       | Source control: TFS, Git, Svn           |
+| Languages: C#, Python, Delphi, Java, C++, C, VB6, Ruby, R, <br>Lua, Powershell                                                                                                                         | Multi-threading, HPC, AI and ML         |
+| TCP/IP, COM, DCOM, ActiveX, WCF                                                                                                                                                                        | IBM WebSphere, MSMQ, RabbitMQ           |
+| Web technologies: ASP.NET Webforms, ASP.NET MVC 5, Web API's <br>(REST, json), jQuery, JavaScript, <br>CSS, Ajax, HTML 5, ASP.NET Core 3.1, SignalR, Knockoutjs, <br>Reactjs, Angular, Blazor, Swagger | TDD, BDD, CI, CD, SOLID, Scrum          |
+| Desktop: Winforms, WFP, VCL, FMX, .NET 4.8, .NET Core 3.1.                                                                                                                                             | Mobile: Android Studio, PhoneGap        |
+| Security: OWASP, SSL, HTTPS, IIS Configuration, Pen Testing.                                                                                                                                           | VMWare, Docker, Kubernetes.             |
+| Data Analysis: Python (NumPy, SciPy and Pandas)                                                                                                                                                        | CI/CD: TeamCity, Prometheus and Grafana |
+| Desktop: Winforms, WFP, VCL, FMX, .NET 4.8, .NET Core 3.1.                                                                                                                                             | UI/UX design                            |
+| Cloud: AWS (S3, CloudFront)                                                                                                                                                                            | Integration: Bloomberg, Geneva, FIX     |
+
 <!--
 **JordiCorbilla/JordiCorbilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jordicorbilla&show_icons=true)
