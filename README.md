@@ -9,7 +9,10 @@ I hold a **Master's degree in Computer Engineering** from the [Open University o
 - ⚡ Fun facts [here](https://github.com/JordiCorbilla/JordiCorbilla/blob/master/MoreAboutMe.md).
 
 How to reach me:
-📫 Twitter: [thunderjordi](https://twitter.com/thunderjordi) ╼╾ 📫 Linkedin: [Jordi Corbilla](https://www.linkedin.com/in/jordicollcorbilla/) ╼╾ 📫 Wakatime: [Jordi Corbilla](https://wakatime.com/@thunderjordi)
+- 📫 Twitter: [thunderjordi](https://twitter.com/thunderjordi)
+- 📫 Linkedin: [Jordi Corbilla](https://www.linkedin.com/in/jordicollcorbilla/) 
+- 📫 Wakatime: [Jordi Corbilla](https://wakatime.com/@thunderjordi)
+- 📫 Blog: [Random Thoughts on Coding & Technology](https://thundaxsoftware.blogspot.com/)
 
 ![](https://github-readme-stats.vercel.app/api?username=jordicorbilla&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
