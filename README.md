@@ -4,7 +4,7 @@ My name is Jordi and I'm originally from Spain (Girona) and I have been living a
 
 I hold a **Master's degree in Computer Engineering** from the [Open University of Catalonia](https://estudios.uoc.edu/es/masters-universitarios/ingenieria-informatica/presentacion), a **Bachelor's degree in Computer Engineering** from the [Open University of Catalonia](https://estudios.uoc.edu/es/grados/ingenieria-informatica/presentacion), and a **Bachelor's degree in Industrial Electronics Engineering** from the [University of Girona](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=1048&ID=3105G0309).
 
-- 🔭 I’m currently working on Trading and Compliance technologies using .NET and Python
+- 🔭 I’m currently working on Trading and Compliance technologies using .NET, Python and React
 - 🌱 I’m currently implementing Deep Learning models using Python
 - ⚡ Fun facts [here](https://github.com/JordiCorbilla/JordiCorbilla/blob/master/MoreAboutMe.md).
 
