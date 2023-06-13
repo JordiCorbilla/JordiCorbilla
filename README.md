@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jordi and I'm a Senior Software Engineer with over 20 years of experience in building end-to-end systems. Originally from Spain, I've been living and working in the UK for more than a decade. I currently work in the Trading Execution & Compliance Technology department at [Balyasny Asset Management](https://www.bamfunds.com/), a top-tier global multi-strategy hedge fund where we deliver consistent, uncorrelated, absolute returns in all market environments by fostering a culture of research, innovation, and collaboration.
+My name is Jordi and I'm a Senior Software Engineer with over 20 years of experience in building end-to-end systems. Originally from Spain, I've been living and working in the UK for more than a decade. I currently work in the Trading Execution & Compliance Technology department at [Balyasny Asset Management](https://www.bamfunds.com/), a top-tier global multi-strategy hedge fund.
 
 In my role, I deliver mission-critical trading and compliance systems with a focus on end-to-end full-stack software development using cutting-edge technologies such as .NET, Python, and React. I'm passionate about tech and have a mind wired for discovery, which allows me to make an immediate impact on any business.
 
