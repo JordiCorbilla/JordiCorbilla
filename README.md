@@ -8,7 +8,7 @@ My academic background includes a Master’s in [Computer Engineering](https://e
 
 I am continuously exploring new technologies, currently focusing on Deep Learning models in Python. Beyond my professional work, I share my insights and experiences on my blog, ["Random Thoughts on Coding & Technology"](https://thundaxsoftware.blogspot.com/).
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicollcorbilla/) or follow me on [Twitter](https://twitter.com/thunderjordi). I’m always open to collaborating, networking, and discovering new opportunities to blend technology, finance, and cutting-edge research.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicollcorbilla/) or follow me on [X](https://x.com/thunderjordi). I’m always open to collaborating, networking, and discovering new opportunities to blend technology, finance, and cutting-edge research.
 
 <!--![](https://github-readme-stats.vercel.app/api?username=jordicorbilla&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)-->
 
