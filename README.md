@@ -26,8 +26,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicoll
   <a href="https://github.com/JordiCorbilla/RiskOptima" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=RiskOptima&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/JordiCorbilla/ocular-disease-intelligent-recognition-deep-learning" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=ocular-disease-intelligent-recognition-deep-learning&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
   </a>
