@@ -21,16 +21,16 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicoll
 
 <p align="center">
   <a href="https://github.com/JordiCorbilla/stock-prediction-deep-neural-learning" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=stock-prediction-deep-neural-learning&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=stock-prediction-deep-neural-learning&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
   </a>
   <a href="https://github.com/JordiCorbilla/RiskOptima" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=RiskOptima&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=RiskOptima&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
   </a>
   <a href="https://github.com/JordiCorbilla/ocular-disease-intelligent-recognition-deep-learning" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=ocular-disease-intelligent-recognition-deep-learning&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=ocular-disease-intelligent-recognition-deep-learning&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
   </a>
   <a href="https://github.com/JordiCorbilla/efficient-frontier-monte-carlo-portfolio-optimizationg" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=efficient-frontier-monte-carlo-portfolio-optimization&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=efficient-frontier-monte-carlo-portfolio-optimization&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
   </a>  
 </p>
 <!--
