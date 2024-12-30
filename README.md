@@ -20,8 +20,12 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicoll
 ### Pinned Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=stock-prediction-deep-neural-learning&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=RiskOptima&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
+  <a href="https://github.com/JordiCorbilla/stock-prediction-deep-neural-learning" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=stock-prediction-deep-neural-learning&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
+  </a>
+  <a href="https://github.com/JordiCorbilla/RiskOptima" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=RiskOptima&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
+  </a>
 </p>
 
 <!--
