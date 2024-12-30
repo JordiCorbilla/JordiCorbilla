@@ -17,7 +17,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicoll
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jordicorbilla&theme=dracula" alt="Profile Summary Card"/>
 </p>
 
-### Pinned Repositories
+### Quant & AI Portfolio
 
 <p align="center">
   <a href="https://github.com/JordiCorbilla/stock-prediction-deep-neural-learning" target="_blank">
