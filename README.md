@@ -27,7 +27,14 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicoll
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=RiskOptima&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/JordiCorbilla/ocular-disease-intelligent-recognition-deep-learning" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=ocular-disease-intelligent-recognition-deep-learning&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
+  </a>
+  <a href="https://github.com/JordiCorbilla/efficient-frontier-monte-carlo-portfolio-optimizationg" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=efficient-frontier-monte-carlo-portfolio-optimization&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
+  </a>  
+</p>
 <!--
 **JordiCorbilla/JordiCorbilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jordicorbilla&show_icons=true)
