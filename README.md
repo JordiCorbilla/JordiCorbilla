@@ -17,6 +17,12 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicoll
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jordicorbilla&theme=dracula" alt="Profile Summary Card"/>
 </p>
 
+### Pinned Repositories
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=stock-prediction-deep-neural-learning&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=RiskOptima&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
+</p>
 
 <!--
 **JordiCorbilla/JordiCorbilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
