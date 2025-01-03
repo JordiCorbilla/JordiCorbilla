@@ -46,7 +46,10 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicoll
   </a>    
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JordiCorbilla&column=3&margin-w=15&margin-h=15&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+ <a href="https://github.com/JordiCorbilla/QuantitativeFinance" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=QuantitativeFinance&show_owner=True&theme=dracula" alt="Profile Summary Card"/>  
+</p>
 <!--
 **JordiCorbilla/JordiCorbilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![My github stats](https://github-readme-stats.vercel.app/api?username=jordicorbilla&show_icons=true)
