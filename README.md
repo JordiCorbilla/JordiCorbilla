@@ -48,7 +48,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicoll
 
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=jordicorbilla&column=3&margin-w=15&margin-h=15&theme=dracula" alt="Profile Summary Card"/>  
+    <img src="https://github-profile-trophy.vercel.app/?username=jordicorbilla&column=4&margin-w=15&margin-h=15&theme=dracula&title=-PullRequest,-Reviews" alt="Profile Summary Card"/>  
 </p>
 
 <!--
