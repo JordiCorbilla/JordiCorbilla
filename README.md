@@ -29,7 +29,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicoll
   <a href="https://github.com/JordiCorbilla/ocular-disease-intelligent-recognition-deep-learning" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=ocular-disease-intelligent-recognition-deep-learning&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
   </a>
-  <a href="https://github.com/JordiCorbilla/efficient-frontier-monte-carlo-portfolio-optimizationg" target="_blank">
+  <a href="https://github.com/JordiCorbilla/efficient-frontier-monte-carlo-portfolio-optimization" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=efficient-frontier-monte-carlo-portfolio-optimization&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
   </a>  
   <a href="https://github.com/JordiCorbilla/dogs-vs-cats-classification" target="_blank">
