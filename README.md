@@ -32,6 +32,12 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicoll
   <a href="https://github.com/JordiCorbilla/efficient-frontier-monte-carlo-portfolio-optimization" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=efficient-frontier-monte-carlo-portfolio-optimization&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
   </a>  
+  <a href="https://github.com/JordiCorbilla/index-vol-divergence-signals" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=index-vol-divergence-signals&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
+  </a>
+  <a href="https://github.com/JordiCorbilla/machine-learning-optimization-portfolio" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=machine-learning-optimization-portfolio&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
+  </a>    
   <a href="https://github.com/JordiCorbilla/dogs-vs-cats-classification" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=dogs-vs-cats-classification&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
   </a>
