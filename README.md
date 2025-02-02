@@ -10,6 +10,10 @@ I am continuously exploring new technologies, currently focusing on Deep Learnin
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicollcorbilla/) or follow me on [X](https://x.com/thunderjordi). I’m always open to collaborating, networking, and discovering new opportunities to blend technology, finance, and cutting-edge research.
 
+# Support me
+
+<a href="https://www.buymeacoffee.com/jordicorbilla" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 <!--![](https://github-readme-stats.vercel.app/api?username=jordicorbilla&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)-->
 
 <!--![](https://visitor-badge.glitch.me/badge?page_id=jordicorbilla.jordicorbilla)-->
