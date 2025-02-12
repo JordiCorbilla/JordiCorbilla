@@ -54,6 +54,12 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicoll
   <a href="https://github.com/JordiCorbilla/QuantitativeFinance" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=QuantitativeFinance&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
   </a>    
+  <a href="https://github.com/JordiCorbilla/portfolio-optimization-probability-analysis" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=portfolio-optimization-probability-analysis&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
+  </a>
+  <a href="https://github.com/JordiCorbilla/index-vol-divergence-signals" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=index-vol-divergence-signals&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
+  </a>    
 </p>
 
 <p align="center">
