@@ -25,7 +25,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicoll
 
 <p align="center">
   <a href="https://github.com/JordiCorbilla/stock-prediction-deep-neural-learning" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=stock-prediction-deep-neural-learning&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=stock-prediction-deep-neural-learning&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
   </a>
   <a href="https://github.com/JordiCorbilla/RiskOptima" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=RiskOptima&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
@@ -43,16 +43,16 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicoll
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=machine-learning-optimization-portfolio&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
   </a>    
   <a href="https://github.com/JordiCorbilla/dogs-vs-cats-classification" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=dogs-vs-cats-classification&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=dogs-vs-cats-classification&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
   </a>
   <a href="https://github.com/JordiCorbilla/Applied-Data-Science-Capstone" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=Applied-Data-Science-Capstone&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=Applied-Data-Science-Capstone&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
   </a>  
   <a href="https://github.com/JordiCorbilla/AI-Tutor" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=AI-Tutor&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=AI-Tutor&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
   </a>
   <a href="https://github.com/JordiCorbilla/QuantitativeFinance" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=QuantitativeFinance&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=QuantitativeFinance&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
   </a>    
 </p>
 
