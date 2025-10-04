@@ -59,7 +59,13 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicoll
   </a>
   <a href="https://github.com/JordiCorbilla/index-vol-divergence-signals" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=index-vol-divergence-signals&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
-  </a>    
+  </a>
+  <a href="https://github.com/JordiCorbilla/RAG-PDF-Chatbot" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=RAG-PDF-Chatbot&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
+  </a>
+  <a href="https://github.com/JordiCorbilla/langgraph-cookbook" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=langgraph-cookbook&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
+  </a>     
 </p>
 
 <p align="center">
