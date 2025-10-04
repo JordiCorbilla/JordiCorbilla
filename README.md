@@ -64,7 +64,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicoll
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=RAG-PDF-Chatbot&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
   </a>
   <a href="https://github.com/JordiCorbilla/langgraph-cookbook" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=langgraph-cookbook&show_owner=False&theme=dracula" alt="Profile Summary Card"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JordiCorbilla&repo=langgraph-cookbook&show_owner=True&theme=dracula" alt="Profile Summary Card"/>
   </a>     
 </p>
 
