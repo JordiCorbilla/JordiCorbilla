@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-With over two decades of experience designing and building end-to-end systems, I have developed a deep technical skill set and a passion for delivering impactful solutions. Originally from Spain and now based in the UK, I currently serve as a Senior Software Engineer in the Trading Execution & Compliance Technology team at [Balyasny Asset Management](https://www.bamfunds.com/), a top-tier global multi-strategy hedge fund.
+With over two decades of experience designing and building end-to-end systems, I have developed a deep technical skill set and a passion for delivering impactful solutions. Originally from Spain and now based in the UK, I currently serve as a Senior Software Engineer in the Trading Execution & Compliance Technology team at a top-tier global multi-strategy hedge fund.
 
 In my role, I architect and implement mission-critical trading and compliance platforms, leveraging cutting-edge technologies such as .NET, Python, and React. My work spans from backend engineering to user interfaces, ensuring robust, scalable, and secure systems that support complex, high-volume trading operations.
 
