@@ -29,6 +29,20 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicoll
   <a href="https://github.com/JordiCorbilla/langgraph-cookbook" target="_blank"><img src="./assets/cards/langgraph-cookbook.svg" alt="langgraph-cookbook" width="49%" /></a>
 </p>
 
+### Recent Repositories
+
+<p align="center">
+  <a href="https://github.com/JordiCorbilla/local-voice-studio" target="_blank"><img src="./assets/cards/local-voice-studio.svg" alt="local-voice-studio" width="49%" /></a>
+  <a href="https://github.com/JordiCorbilla/codex-engineering-playbook" target="_blank"><img src="./assets/cards/codex-engineering-playbook.svg" alt="codex-engineering-playbook" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/JordiCorbilla/engineering-skills-for-codex" target="_blank"><img src="./assets/cards/engineering-skills-for-codex.svg" alt="engineering-skills-for-codex" width="49%" /></a>
+  <a href="https://github.com/JordiCorbilla/fund-overlap-lab" target="_blank"><img src="./assets/cards/fund-overlap-lab.svg" alt="fund-overlap-lab" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/JordiCorbilla/Quantitative-Developer-Reference-Library" target="_blank"><img src="./assets/cards/quant-dev-reference-library.svg" alt="Quantitative-Developer-Reference-Library" width="49%" /></a>
+</p>
+
 ### Quant Finance, AI & Engineering Portfolio
 
 <p align="center">
