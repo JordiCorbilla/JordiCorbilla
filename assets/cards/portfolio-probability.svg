@@ -10,8 +10,8 @@
   </defs>
   <rect x="10" y="10" rx="18" ry="18" width="400" height="170" fill="url(#g-portfolio-probability)" stroke="#2b3140" filter="url(#shadow-portfolio-probability)"/>
   <rect x="24" y="24" rx="6" ry="6" width="8" height="28" fill="#bd93f9"/>
-  <text x="46" y="45" font-family="Segoe UI, Arial, sans-serif" font-size="23" fill="#bd93f9" font-weight="700">portfolio-optimization-probability-analysis</text>
-  <text x="24" y="64" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#b8c1d1" letter-spacing="1.2">JORDICORBILLA / PORTFOLIO-OPTIMIZATION-PROBABILITY-ANALYSIS</text>
+  <text x="46" y="45" font-family="Segoe UI, Arial, sans-serif" font-size="23" fill="#bd93f9" font-weight="700">Portfolio Probability</text>
+  <text x="24" y="64" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#b8c1d1" letter-spacing="1.2">PROBABILITY-BASED PORTFOLIO OPTIMIZATION</text>
   <text x="24" y="80" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#b8c1d1">Probability-based portfolio analysis and</text><text x="24" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#b8c1d1">optimization experiments.</text>
   <rect x="24" y="140" rx="13" ry="13" width="62" height="28" fill="#252b38" stroke="#2b3140" /><text x="55.0" y="158" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#f8f8f2" font-weight="600">Quant</text><rect x="96" y="140" rx="13" ry="13" width="100" height="28" fill="#252b38" stroke="#2b3140" /><text x="146.0" y="158" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#f8f8f2" font-weight="600">Optimization</text><rect x="206" y="140" rx="13" ry="13" width="62" height="28" fill="#252b38" stroke="#2b3140" /><text x="237.0" y="158" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#f8f8f2" font-weight="600">Python</text>
 </svg>

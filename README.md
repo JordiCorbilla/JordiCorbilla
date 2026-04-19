@@ -21,25 +21,25 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jordicoll
 ### Flagship Projects
 
 <p align="center">
-  <a href="https://github.com/JordiCorbilla/RiskOptima" target="_blank"><img src="./assets/cards/riskoptima.svg" alt="RiskOptima" width="420" /></a>
-  <a href="https://github.com/JordiCorbilla/table.lib" target="_blank"><img src="./assets/cards/table-lib.svg" alt="table.lib" width="420" /></a>
+  <a href="https://github.com/JordiCorbilla/RiskOptima" target="_blank"><img src="./assets/cards/riskoptima.svg" alt="RiskOptima" width="49%" /></a>
+  <a href="https://github.com/JordiCorbilla/table.lib" target="_blank"><img src="./assets/cards/table-lib.svg" alt="table.lib" width="49%" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/JordiCorbilla/stock-prediction-deep-neural-learning" target="_blank"><img src="./assets/cards/stock-prediction.svg" alt="stock-prediction-deep-neural-learning" width="420" /></a>
-  <a href="https://github.com/JordiCorbilla/langgraph-cookbook" target="_blank"><img src="./assets/cards/langgraph-cookbook.svg" alt="langgraph-cookbook" width="420" /></a>
+  <a href="https://github.com/JordiCorbilla/stock-prediction-deep-neural-learning" target="_blank"><img src="./assets/cards/stock-prediction.svg" alt="stock-prediction-deep-neural-learning" width="49%" /></a>
+  <a href="https://github.com/JordiCorbilla/langgraph-cookbook" target="_blank"><img src="./assets/cards/langgraph-cookbook.svg" alt="langgraph-cookbook" width="49%" /></a>
 </p>
 
 ### Quant Finance, AI & Engineering Portfolio
 
 <p align="center">
-  <a href="https://github.com/JordiCorbilla/efficient-frontier-monte-carlo-portfolio-optimization" target="_blank"><img src="./assets/cards/efficient-frontier.svg" alt="efficient-frontier-monte-carlo-portfolio-optimization" width="420" /></a>
-  <a href="https://github.com/JordiCorbilla/index-vol-divergence-signals" target="_blank"><img src="./assets/cards/index-vol.svg" alt="index-vol-divergence-signals" width="420" /></a>
+  <a href="https://github.com/JordiCorbilla/efficient-frontier-monte-carlo-portfolio-optimization" target="_blank"><img src="./assets/cards/efficient-frontier.svg" alt="efficient-frontier-monte-carlo-portfolio-optimization" width="49%" /></a>
+  <a href="https://github.com/JordiCorbilla/index-vol-divergence-signals" target="_blank"><img src="./assets/cards/index-vol.svg" alt="index-vol-divergence-signals" width="49%" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/JordiCorbilla/portfolio-optimization-probability-analysis" target="_blank"><img src="./assets/cards/portfolio-probability.svg" alt="portfolio-optimization-probability-analysis" width="420" /></a>
-  <a href="https://github.com/JordiCorbilla/QuantitativeFinance" target="_blank"><img src="./assets/cards/quantitative-finance.svg" alt="QuantitativeFinance" width="420" /></a>
+  <a href="https://github.com/JordiCorbilla/portfolio-optimization-probability-analysis" target="_blank"><img src="./assets/cards/portfolio-probability.svg" alt="portfolio-optimization-probability-analysis" width="49%" /></a>
+  <a href="https://github.com/JordiCorbilla/QuantitativeFinance" target="_blank"><img src="./assets/cards/quantitative-finance.svg" alt="QuantitativeFinance" width="49%" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/JordiCorbilla/RAG-PDF-Chatbot" target="_blank"><img src="./assets/cards/rag-pdf-chatbot.svg" alt="RAG-PDF-Chatbot" width="420" /></a>
-  <a href="https://github.com/JordiCorbilla/AI-Tutor" target="_blank"><img src="./assets/cards/ai-tutor.svg" alt="AI-Tutor" width="420" /></a>
+  <a href="https://github.com/JordiCorbilla/RAG-PDF-Chatbot" target="_blank"><img src="./assets/cards/rag-pdf-chatbot.svg" alt="RAG-PDF-Chatbot" width="49%" /></a>
+  <a href="https://github.com/JordiCorbilla/AI-Tutor" target="_blank"><img src="./assets/cards/ai-tutor.svg" alt="AI-Tutor" width="49%" /></a>
 </p>
