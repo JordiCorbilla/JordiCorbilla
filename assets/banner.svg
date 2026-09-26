@@ -16,7 +16,7 @@
   <circle cx="1145" cy="180" r="54" fill="#252b38" opacity="0.7"/>
   <rect x="70" y="52" rx="9" ry="9" width="12" height="140" fill="url(#accent)"/>
   <text x="108" y="96" font-family="Segoe UI, Arial, sans-serif" font-size="44" fill="#f8f8f2" font-weight="700">Jordi Corbilla</text>
-  <text x="108" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#8be9fd" font-weight="600">Senior Full-Stack &amp; Quantitative Engineer</text>
-  <text x="108" y="176" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#b8c1d1">Trading • Compliance • Risk • AI • Python • C#/.NET • Cloud-native Systems</text>
-  <text x="108" y="208" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#b8c1d1">Building production-grade platforms and practical tooling across quantitative finance, engineering, and agentic AI.</text>
+  <text x="108" y="138" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#8be9fd" font-weight="600">Front Office Technology &amp; Quantitative Engineer</text>
+  <text x="108" y="176" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#b8c1d1">Trading Systems • Quant Engineering • AI • Python • C#/.NET • Distributed Systems</text>
+  <text x="108" y="208" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#b8c1d1">Building production-grade trading, financial infrastructure, quantitative platforms, and AI tooling.</text>
 </svg>
