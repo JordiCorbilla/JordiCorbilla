@@ -1,14 +1,14 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Jordi Corbilla — Senior Full-Stack and Quantitative Engineer" width="100%" />
+  <img src="./assets/banner.svg" alt="Jordi Corbilla — Front Office Technology and Quantitative Engineer" width="100%" />
 </p>
 
-I’m a **Senior Full-Stack & Quantitative Engineer** building **trading, compliance, risk, and AI systems**.
+I’m a **Front Office Technology & Quantitative Engineer** building **trading systems, quantitative platforms, financial infrastructure, and AI tooling**.
 
 With over two decades of experience designing and delivering end-to-end software, I specialize in systems that need to be **fast, reliable, scalable, and production-ready**. My focus is the architecture and implementation of mission-critical platforms for complex, high-volume financial environments.
 
-My work sits at the intersection of **Python**, **C#/.NET**, **cloud-native engineering**, **portfolio analytics**, and **agentic tooling**. I’m particularly interested in systems where strong engineering discipline, quantitative thinking, and practical automation come together to solve difficult real-world problems.
+My work sits at the intersection of **trading systems**, **Python**, **C#/.NET**, **distributed and cloud-native engineering**, **quantitative finance**, and **agentic AI**. I’m particularly interested in systems where strong engineering discipline, quantitative thinking, and practical automation come together to solve difficult real-world problems.
 
 My academic background includes a [Master’s in Computer Engineering](https://estudios.uoc.edu/es/masters-universitarios/ingenieria-informatica/presentacion) and a [Bachelor’s in Computer Engineering](https://estudios.uoc.edu/es/grados/ingenieria-informatica/presentacion), both from the Open University of Catalonia, as well as a [Bachelor’s in Industrial Electronics Engineering](https://www.udg.edu/en/estudia/Oferta-formativa/Graus/Fitxes?IDE=1263&ID=3105G0309) from the University of Girona.
 
